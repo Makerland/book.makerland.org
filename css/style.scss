@@ -132,6 +132,17 @@ ul.testimonials {
 .section-social {margin-top: -8px;float: right;
 	img {margin-left: 19px;}
 }
+.social-buttons {
+	margin-bottom: 20px;
+	.fb {
+		float: left;
+		width: 80px;
+		margin-left: 70px;
+	}
+	.twitter {
+		margin-right: 30px
+	}
+}
 form#mc-embedded-subscribe-form {background: url(../img/block-join.png) center center no-repeat;width: 517px;height: 69px;padding-top: 35px;padding-left: 20px;padding-right: 45px;margin-bottom: 20px;}
 #mce-EMAIL {border: 0px;margin-top: 2px;font-size: 16px;width: 350px;
 	&:focus{-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;outline:0;border:0;}

@@ -40,6 +40,7 @@ section {padding: 30px 0px;
 .mg-bt-small {margin-bottom: 10px;}
 .mg-bt-normal {margin-bottom: 25px;}
 .mg-bt-big {margin-bottom: 35px;}
+.mg-top-normal {margin-top: 25px;}
 
 .btn-buy span {color: #fff;height: 43px;width: 153px;background: #26a9e1;display: block;text-align: center;line-height: 43px;font-weight: bold;font-family: 'Droid Sans','Lato',Helvetica,Arial,sans-serif;border: 1px solid #2d4e9f;-webkit-box-shadow: 7px -7px 0px #2d4e9f; -moz-box-shadow: 7px -7px 0px #2d4e9f; box-shadow: 7px -7px 0px #2d4e9f; &:after{position: absolute;} }
 
@@ -59,6 +60,7 @@ p {font: 17px/130% 'Droid Sans','Lato',Helvetica,Arial,sans-serif;margin-top: 0;
 .uppercased{text-transform: uppercase;}
 .text-white {color: #fff;}
 .text-black {color: #000;}
+.text-small {font-size: 12px;}
 
 .link-blue-big {font-size: 20px;color: #25a6dd;font-weight: bold;}
 .link-underlined {text-decoration: underline;}

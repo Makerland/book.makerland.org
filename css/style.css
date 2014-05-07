@@ -51,6 +51,9 @@ section {
 .mg-bt-big {
   margin-bottom: 35px; }
 
+.mg-top-normal {
+  margin-top: 25px; }
+
 .btn-buy span {
   color: #fff;
   height: 43px;
@@ -115,6 +118,9 @@ p {
 
 .text-black {
   color: #000; }
+
+.text-small {
+  font-size: 12px; }
 
 .link-blue-big {
   font-size: 20px;
